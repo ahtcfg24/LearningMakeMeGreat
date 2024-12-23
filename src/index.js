@@ -1,0 +1,1 @@
+console.log('Learning Make Me Great project initialized.');
